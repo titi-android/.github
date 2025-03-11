@@ -131,7 +131,7 @@
     <tr>
       <td>모바일</td>
       <td>
-        <img src="https://img.shields.io/badge/Kotlin-6DB33F?style=flat&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
       </td>
     </tr>
     <tr>
