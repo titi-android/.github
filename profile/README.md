@@ -81,9 +81,9 @@
 - **기능 설명:** 사용자가 스케줄 정보(요일, 시간대 등)와 탑승할 버스정류장 및 버스 노선 정보를 입력합니다.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="./asset/create1.png" alt="create1" style="border-radius: 10px; width: 400px;"/>
-    <img src="./asset/create2.png" alt="create2" style="border-radius: 10px; width: 700px;"/>
-    <img src="./asset/create3.png" alt="create3" style="border-radius: 10px; width: 700px;"/>
+    <img src="./asset/create1.png" alt="create1" style="border-radius: 10px; width: 250px;"/>
+    <img src="./asset/create2.png" alt="create2" style="border-radius: 10px; width: 250px;"/>
+    <img src="./asset/create3.png" alt="create3" style="border-radius: 10px; width: 250px;"/>
 </div>
 
 - **기술 요소:**
