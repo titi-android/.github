@@ -7,7 +7,7 @@
 
 <br/>
 <div align="center">
-  <img src="./assets/info.png" alt="info" style="border-radius: 10px;"/>
+  <img src="./asset/info.png" alt="info" style="border-radius: 10px;"/>
 </div>
 <br/>
 ---
@@ -65,7 +65,7 @@
 - 닉네임 | 비밀번호
 
 <div align="center">
-<img src="./assets/회원가입.gif" alt="회원가입" style="border-radius: 10px; width: 700px;"/>
+<img src="./asset/회원가입.gif" alt="회원가입" style="border-radius: 10px; width: 700px;"/>
 </div>
 
 #### **로그인**
@@ -73,7 +73,7 @@
 - 닉네임 | 비밀번호
 
 <div align="center">
-<img src="./assets/로그인.gif" alt="로그인" style="border-radius: 10px; width: 700px;"/>
+<img src="./asset/로그인.gif" alt="로그인" style="border-radius: 10px; width: 700px;"/>
 </div>
 
 ### **1. 스케줄 등록**
@@ -81,13 +81,13 @@
 - **기능 설명:** 사용자가 스케줄 정보(요일, 시간대 등)와 탑승할 버스정류장 및 버스 노선 정보를 입력합니다.
 
 <div align="center">
-<img src="./assets/create1.png" alt="create1" style="border-radius: 10px; width: 700px;"/>
+<img src="./asset/create1.png" alt="create1" style="border-radius: 10px; width: 700px;"/>
 </div>
 <div align="center">
-<img src="./assets/create2.png" alt="create2" style="border-radius: 10px; width: 700px;"/>
+<img src="./asset/create2.png" alt="create2" style="border-radius: 10px; width: 700px;"/>
 </div>
 <div align="center">
-<img src="./assets/create3.png" alt="create3" style="border-radius: 10px; width: 700px;"/>
+<img src="./asset/create3.png" alt="create3" style="border-radius: 10px; width: 700px;"/>
 </div>
 
 - **기술 요소:**
@@ -99,7 +99,7 @@
 
 - **기능 설명:** 메인 페이지를 요일별 스케줄 목록과, 스케줄 클릭 시 상세 정보를 확인할 수 있습니다. 
 <div align="center">
-<img src="./assets/home.png" alt="home" style="border-radius: 10px; width: 700px;"/>
+<img src="./asset/home.png" alt="home" style="border-radius: 10px; width: 700px;"/>
 </div>
 
 
@@ -108,10 +108,10 @@
 - **기능 설명:** 현재 시간대의 스케줄이 존재할 때 등록된 교통 정보의 도착 정보를 알림 및 위젯으로 조회할 수 있습니다.
    
 <div align="center">
-<img src="./assets/notification.png" alt="notification" style="border-radius: 10px; width: 700px;"/>
+<img src="./asset/notification.png" alt="notification" style="border-radius: 10px; width: 700px;"/>
 </div>
 <div align="center">
-<img src="./assets/widget.png" alt="widget" style="border-radius: 10px; width: 700px;"/>
+<img src="./asset/widget.png" alt="widget" style="border-radius: 10px; width: 700px;"/>
 </div>
 
 ### **4. 사용자 문의 페이지**
@@ -124,7 +124,7 @@
 
 | **이름**    | **역할**        | 
 |:-----------:|:---------------:|
-| 김동현      | 팀장 & BE       | 
+| 김동현      | BE              | 
 | 정대영      | AOS             |
 | 정지현      | DESIGN          | 
 
