@@ -129,6 +129,12 @@
   </thead>
   <tbody>
     <tr>
+      <td>모바일</td>
+      <td>
+        <img src="https://img.shields.io/badge/Kotlin-6DB33F?style=flat&logo=kotlin&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
       <td>백엔드</td>
       <td>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
