@@ -87,10 +87,9 @@
 ### **2. 스케줄 조회**
 
 - **기능 설명:** 메인 페이지를 요일별 스케줄 목록과, 스케줄 클릭 시 상세 정보를 확인할 수 있습니다. 
-<div align="center">
-<img src="./asset/home.png" alt="home" style="border-radius: 10px; width: 300px;"/>
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="./asset/home.png" alt="home" style="border-radius: 10px; width: 300px;"/>
 </div>
-
 
 ### **3. 알림 및 위젯 조회**
 
