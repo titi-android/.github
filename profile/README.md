@@ -6,6 +6,10 @@
 </div>
 
 <br/>
+<div align="center">
+  <img src="./assets/info.png" alt="info" style="border-radius: 10px;"/>
+</div>
+<br/>
 ---
 
 ## ✍️ 프로젝트 개요
@@ -76,13 +80,15 @@
 
 - **기능 설명:** 사용자가 스케줄 정보(요일, 시간대 등)와 탑승할 버스정류장 및 버스 노선 정보를 입력합니다.
 
-- 스케줄 등록 화면은 아래와 같습니다. 
-
-
-
-- 스케줄 등록이 진행되는 화면입니다.
-
-
+<div align="center">
+<img src="./assets/create1.png" alt="create1" style="border-radius: 10px; width: 700px;"/>
+</div>
+<div align="center">
+<img src="./assets/create2.png" alt="create2" style="border-radius: 10px; width: 700px;"/>
+</div>
+<div align="center">
+<img src="./assets/create3.png" alt="create3" style="border-radius: 10px; width: 700px;"/>
+</div>
 
 - **기술 요소:**
     - **KaKao Map API:** 카카오 맵 API 를 사용하여 버스정류장 마커 생성
@@ -92,9 +98,23 @@
 ### **2. 스케줄 조회**
 
 - **기능 설명:** 메인 페이지를 요일별 스케줄 목록과, 스케줄 클릭 시 상세 정보를 확인할 수 있습니다. 
+<div align="center">
+<img src="./assets/home.png" alt="home" style="border-radius: 10px; width: 700px;"/>
+</div>
 
 
-### **3. 사용자 문의 페이지**
+### **3. 알림 및 위젯 조회**
+
+- **기능 설명:** 현재 시간대의 스케줄이 존재할 때 등록된 교통 정보의 도착 정보를 알림 및 위젯으로 조회할 수 있습니다.
+   
+<div align="center">
+<img src="./assets/notification.png" alt="notification" style="border-radius: 10px; width: 700px;"/>
+</div>
+<div align="center">
+<img src="./assets/widget.png" alt="widget" style="border-radius: 10px; width: 700px;"/>
+</div>
+
+### **4. 사용자 문의 페이지**
 
 - **기능 설명:** 사용자는 문의 페이지를 통해 운영자에게 피드백 및 오류 정보를 전달할 수 있습니다.
 
